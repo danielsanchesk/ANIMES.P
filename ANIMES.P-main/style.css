@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
 
 .cabeçalho-animesP{
     background-color: #FF0000;
@@ -38,4 +41,10 @@ padding: 27px 0;
 }
 .titulo{
     padding: 24px;
+}
+.anime-one{
+    width: 120px;
+}
+.one-div{
+    text-align: center;
 }
