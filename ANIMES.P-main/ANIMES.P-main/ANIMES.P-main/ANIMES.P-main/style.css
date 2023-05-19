@@ -6,11 +6,8 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-body{background-image: linear-gradient(#FF0000,#000000);
-
-}
 .cabeçalho-animesP{
-   
+    background-color: #FF0000;
 color: white;
 display: flex;
 justify-content: space-around;
@@ -32,9 +29,8 @@ padding: 27px 0;
 
 }
 .anime-titulo{
-   
-    
-    color:white;
+    background-image: linear-gradient(#FF0000,#000000);
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -61,12 +57,4 @@ padding: 27px 0;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
     
-}
-
-.anime-nome{
-        color: white;
-}
-.anime-titulo2{
-    
-    color:white;
 }

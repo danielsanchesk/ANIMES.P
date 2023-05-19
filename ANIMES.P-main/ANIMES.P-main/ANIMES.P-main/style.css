@@ -2,13 +2,10 @@
     margin: 0;
     padding: 0;
 }
-body{
-    font-family: 'Poppins', sans-serif;
-}
 
-.cabeçalho-animesP{
-    background-color: #FF0000;
-color: white;
+.cabeçalho-animes{
+    background-color: #959595;
+color: black;
 display: flex;
 justify-content: space-around;
 padding: 27px 0;
@@ -16,45 +13,11 @@ padding: 27px 0;
 }
 
 .cabeçalho-animes{
-    width: 25%;
+    width: 100%;
 
 }
 .cabeçalho-animes-item{
     display:inline-block ;
     margin: 0 16px;
     font-size: 24px;
-}
-.imagem-texto{
-    width: 25%;
-
-}
-.anime-titulo{
-    background-image: linear-gradient(#FF0000,#000000);
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
-}
-.anime-div-titulo{
-    width: 35%;
-}
-.titulo{
-    padding: 24px;
-}
-.anime-one{
-    width: 120px;
-}
-.one-div{
-    text-align: center;
-}
-.anime1{
-    text-align: center;
-    padding: 50px 0;
-
-}
-.todos-animes{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-    
 }

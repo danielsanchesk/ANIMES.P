@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{background-image: linear-gradient(#FF0000,#000000);
+
+}
+
+.cabeçalho-animesP{
+color: gold;
+display: flex;
+justify-content: space-around;
+padding: 27px 0;
+}
+
+.cabeçalho-animes{
+    width: 25%;
+}
+
+.cabeçalho-animes-item{
+    display:inline-block ;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.imagem-texto{
+    width: 25%;
+}
+
+.anime-titulo{
+    color:goldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.anime-div-titulo{
+    width: 35%;
+}
+
+.titulo{
+    padding: 24px;
+}
+
+.anime-one1{
+    width: 120px;
+    margin: 30px;
+}
+
+.anime-one2{
+    width: 120px;
+    margin: 30px;
+}
+
+.anime-one3{
+    width: 120px;
+    margin: 30px;
+}
+
+.anime-one4{
+    width: 120px;
+    margin: 30px;
+}
+
+.anime-one5{
+    width: 120px;
+    margin: 30px;
+}
+
+.anime-one6{
+    width: 120px;
+    margin: 30px;
+}
+
+.one-div{
+    text-align: center;
+}
+
+
+.anime1{
+    text-align: center;
+    padding: 50px 0;
+
+}
+.todos-animes{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;   
+}
+
+.anime-nome1{
+        color: white;
+}
+
+.anime-nome2{
+    color: white;
+}
+
+.anime-nome3{
+    color: white;
+}
+
+.anime-nome4{
+    color: white;
+}
+
+.anime-nome5{
+    color: white;
+}
+
+.anime-nome6{
+    color: white;
+}
+
+.anime-titulo2{
+    margin: 100px;
+    color:yellow;
+}
